@@ -3,9 +3,9 @@ Responsive-Flavor
 
 Test the responsive layout of your web page through smartphone, tablet and desktop resolutions.
 
-Visist: http://zone-live.github.io/Responsive-Flavor/
+Visit: http://zone-live.github.io/Responsive-Flavor/
 
-You don't need to mess with the browser window no more, just grab the slider and you'll see the viewport width changing.
+You don't need to mess with the browser window, just grab the slider and you'll see the viewport width changing.
 
 #How it works
  1- Add your URL to the input field
